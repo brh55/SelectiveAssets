@@ -1,0 +1,7 @@
+This changelog is an overview of changes throughout SelectiveAssets releases.
+
+================================ 
+  SelectiveAssets 1.0.0-beta1    
+  Released on 2015-02-19
+================================
+First Build.
