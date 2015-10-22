@@ -78,8 +78,6 @@ if (empty($rawComment)) {
   }
 }
 
-echo $runLocation;
-
 //Determine user desired RunLocation if body run JS before body
 if ($runLocation == 'body') {
 	$noComment = $modx->getOption('commentOff', $scriptProperties, '0', true);
